@@ -17,26 +17,26 @@ format compact
 
 % - Gregory-Leibniz
 % Code goes here FOR GREGORY
-leibniz = leibniz(1000)
+leibniz = leibniz(1000);
 
 
 % - Mahadva-Leibniz
-madhava = madhava(1000)
+madhava = madhava(100);
+%error = (pi - madhava) * 100
 
 % - Wallis
 % Code goes here
-wallace = wallace(1000)
+wallace = wallace(1000);
 
 % - Euler
 % Code goes here
-euler = euler(100)
-
+euler = euler(1000000);
 
 % - Nilakantha
-% Code goes here
+nil = nilakantha(1000);
 
 % - BBP
-% Code goes here
+bbp(1)
 
 % - Monte Carlo
 % Code goes here
